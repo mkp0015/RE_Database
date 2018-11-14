@@ -1,8 +1,8 @@
 #####################################################################
 #FILE: county_parcel_template_2.py
 #AUTHOR: Melinda Pullman
-#EMAIL: Melinda.K.Pullman@usace.army.mil
-#ORGANIZATION: USACE|SWG
+#EMAIL: 
+#ORGANIZATION: 
 #CREATION DATE: 09/26/2018
 #LAST MOD DATE: N/A
 #PURPOSE: This script will create a template county feature class that 
