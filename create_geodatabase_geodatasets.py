@@ -1,8 +1,8 @@
 #####################################################################
 #FILE: project_files.py
 #AUTHOR: Melinda Pullman
-#EMAIL: Melinda.K.Pullman@usace.army.mil
-#ORGANIZATION: USACE|SWG
+#EMAIL: 
+#ORGANIZATION:
 #CREATION DATE: 08/07/2018
 #LAST MOD DATE: N/A
 #PURPOSE: This script will create an empty file geodatabase and
