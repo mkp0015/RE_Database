@@ -1,8 +1,8 @@
 #####################################################################
 #FILE: download_files_from_ftp.py
 #AUTHOR: Melinda Pullman
-#EMAIL: Melinda.K.Pullman@usace.army.mil
-#ORGANIZATION: USACE|SWG
+#EMAIL:
+#ORGANIZATION: 
 #CREATION DATE: 10/03/2018
 #LAST MOD DATE: N/A
 #PURPOSE: This script will batch download files from an ftp. An example
