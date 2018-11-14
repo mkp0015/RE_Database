@@ -1,8 +1,8 @@
 #####################################################################
 #FILE: append_parcels_to_template_3.py
 #AUTHOR: Melinda Pullman
-#EMAIL: Melinda.K.Pullman@usace.army.mil
-#ORGANIZATION: USACE|SWG
+#EMAIL: 
+#ORGANIZATION: 
 #CREATION DATE: 09/28/2018
 #LAST MOD DATE: N/A
 #PURPOSE: This script will copy attributes from the county parcel
